@@ -1,6 +1,6 @@
 import musicalbeeps
 from FretBoard import FretBoardNotes
-from MinorPentatonic import GetMinorPentatonicNotes
+from ScaleShapes import GetMinorPentatonicNotes
 
 
 player = musicalbeeps.Player(volume = 0.3,
